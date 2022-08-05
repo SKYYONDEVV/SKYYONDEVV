@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SKYYONDEVV
+- 👀 I’m interested in Discord bots & FiveM Scripts
+- 🌱 I’m currently learning JS,PY,LUA,CSS,SQL
+- 💞️ I’m looking to collaborate on /
+- 📫 How to reach me: /
